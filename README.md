@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Jiayu Ding 👋
 
-<!--
-**JiayuDing031020/JiayuDing031020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a first-year Master's student in Computer Science at Peking University.
 
-Here are some ideas to get you started:
+🌱 My research focuses on the intersection of Large Language Models (LLMs), 3D Vision, and Video Understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking for research collaborations and am open to internship opportunities for Summer 2026.
+
+💬 Welcome to communicate with me to discuss study, research, business and other related issues.
+
+📫 How to reach me: `jyding25@stu.pku.edu.cn`
+
+😄 Pronouns: He/Him
