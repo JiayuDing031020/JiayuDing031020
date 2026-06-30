@@ -1,6 +1,6 @@
 # Hi there, I'm Jiayu Ding 👋
 
-🔭 I’m a first-year Master's student in Computer Science at Peking University.
+🔭 I’m a student in Computer Science at Peking University.
 
 🌱 My research focuses on the intersection of Large Language Models (LLMs), 3D Vision, and Video Understanding.
 
